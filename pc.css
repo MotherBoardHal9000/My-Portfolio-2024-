@@ -15,6 +15,15 @@ body {
     z-index: 5;
   }
 
+  .mobileTyphoGraphy {
+    display: none;
+  }
+
+  .mobileSection {
+    display: none;
+    opacity: 0;
+  }
+
   .section01 {
     position: relative;
     margin: 0 auto;

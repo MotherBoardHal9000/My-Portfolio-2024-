@@ -58,6 +58,11 @@ body {
     position: relative;
   }
 
+  .mobileSection {
+    display: block;
+    opacity: 1;
+  }
+
   .section01 div {
     position: absolute;
   }

@@ -37,6 +37,11 @@ body {
     opacity: 0;
   }
 
+  .mobileSection {
+    display: block;
+    opacity: 1;
+  }
+
   .mobileTyphoGraphy {
     display: block;
     z-index: 10;
